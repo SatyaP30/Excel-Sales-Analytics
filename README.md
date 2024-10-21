@@ -36,9 +36,9 @@
  
 - Skilled in generating date tables using Power Query.
 
--Capable of deriving fiscal months and quarters.
+- Capable of deriving fiscal months and quarters.
 
--Experienced in establishing data model relationships with Power Pivot.
+- Experienced in establishing data model relationships with Power Pivot.
 
 - Proficient in integrating supplementary data into existing data models.
 
